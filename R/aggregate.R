@@ -1,4 +1,4 @@
-#' aggregate an \code{sf} object
+#' aggregate an \code{sf} object 
 #'
 #' aggregate an \code{sf} object, possibly union-ing geometries
 #' 
